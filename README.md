@@ -10,4 +10,4 @@
 
 #### Chat model er +sign click koro--->search koro & clic koro: Google Gemini Chat Model--->Credential set koro ar model select koro.
 
-#### AI Agent er +sign click koro--->search koro & click koro: gmail--->click: Send a message--->
+#### AI Agent er +sign click koro--->search koro & click koro: gmail--->click: Send a message--->To te value dibo: pashe thaka gmail theke je send korche tar email tene dore paste koro.--->
