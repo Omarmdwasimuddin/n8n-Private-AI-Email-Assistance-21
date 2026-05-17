@@ -4,4 +4,5 @@
 
 #### click--->Add first step--->search: gmail--->click: On message received--->simplify off koro--->click koro: Fetch Test Even 
 
-#### Gmail Trigger er +sign click koro--->search: HTML--->click: Extract html content---> 
+#### Gmail Trigger er +sign click koro--->search: HTML--->click: Extract html content---> Key te value daw: email_body--->CSS Selector e value daw: body--->
+ 
