@@ -8,4 +8,4 @@
  
 #### HTML er +sign click koro--->search & click: ai agent--->Source for Prompt (User Message) e select koro: Define below--->Prompt (User Message) e value daw: prompt.txt theke text copy kore paste koro.--->prompt text theke remove koro: {{ $json.email_body }}--->pash theke email body tene ene boshaw.
 
-#### Chat model er +sign click koro--->search koro & clic koro: Google Gemini Chat Model--->
+#### Chat model er +sign click koro--->search koro & clic koro: Google Gemini Chat Model--->Credential set koro ar model select koro.
